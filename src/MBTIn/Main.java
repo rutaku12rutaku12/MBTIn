@@ -8,5 +8,6 @@ public class Main {
 		System.out.print(scan.next());
 		System.out.print("whisosiriey");
 		scan.close();
+		System.out.print("ghols");
 	}
 }
